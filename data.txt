@@ -1,1 +1,1 @@
-Current value: 2
+Current value: 3
